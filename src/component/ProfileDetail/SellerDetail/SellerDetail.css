@@ -1,0 +1,42 @@
+.agent-container {
+    overflow-y: scroll;
+    height: 60vh;
+    max-width: 760px;
+    padding: 5px;
+}
+
+.agent-heading {
+    padding: 10px 0;
+    color: rgb(5, 105, 72);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.agent-table {
+    text-align: left;
+}
+
+th {
+    padding-right: 40px;
+    padding-bottom: 30px;
+    font-weight: 500;
+
+
+}
+
+td {
+    font-weight: 900;
+    padding-bottom: 30px;
+}
+
+.product-header {
+    width: 100%;
+    height: 4vw;
+    background: rgb(202, 198, 198);
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+}
+
+.product-header h4 {
+    margin-left: 10px;
+}

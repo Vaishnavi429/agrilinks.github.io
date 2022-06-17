@@ -1,0 +1,22 @@
+.arrivalReport{
+    border-left: 4px solid rgb(8, 8, 120) ;
+    margin:2px
+}
+
+.arrivalReport-header{
+    display: flex;
+    justify-content: space-between; 
+     color:rgb(8, 8, 120)
+}
+
+.arrivalReport-fresh{
+    display: flex;
+    justify-content: space-between;
+}
+.arrivalReport-balance{
+    display: flex;
+    justify-content: space-between;
+}
+.report_text{
+    padding: 5px 2px;
+}
